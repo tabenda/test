@@ -1,0 +1,8 @@
+@media (max-width: 767px @screen-xs-max) { 
+}
+@media (min-width: 768px @screen-sm-min) and (max-width: 991px @screen-sm-max) { 
+}
+@media (min-width: 992px @screen-md-min) and (max-width: 1199px @screen-md-max) { 
+}
+@media (min-width: 1200px @screen-lg-min) { 
+}
